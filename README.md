@@ -66,5 +66,7 @@ From Exploratory data analysis the following are the understanding about the dat
 
 5. The percent of people leaving the company is evenly distributed across all departments, but the highest is in HR department itself.
 
-##** Machine learning with different classification models**
+## **Machine learning with different classification models**
+
+We tested four different machine learning models to predict employee attrition, including Logistic Regression, Decision Tree, Random Forest, and XGBoost. After feature engineering and hyperparameter tuning we selected the XGBoost model having highest accuracy of 99% for final prediction.
 
